@@ -35,5 +35,4 @@ sudo apt update
 sudo apt install python3.6
 
 USAGE: 
-simple edit the PHP file inside the folder /var/www/html/index.php
-
+Copy files into folder /var/www/html/index.php and edit index.PHP as you need
