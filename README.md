@@ -4,7 +4,7 @@ This is a PHP/HTML code fo STEEM Blockchain used for:
 
 - Create your own Site to integrate PHP/Steem and Python
 - Permit users to delegate Steem Power on your Bot
-- Permit eveyone to check who is delegating Vest and how Much
+- Permit everyone to check who is delegating Vest and how Much
 
 If you have a Bid Bot and need more delgation you can use a PHP site to permit user for doig it. You can also give users the possibility to see who is delegating SP
 
