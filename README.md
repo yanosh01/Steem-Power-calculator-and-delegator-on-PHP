@@ -11,7 +11,7 @@ If you have a Bid Bot and need more delgation you can use a PHP site to permit u
 
 REQUIREMENT:
 
-- Install Apache2 mpodules
+- Install Apache2 modules
 - Install php modules
 - Install Python 3
 
