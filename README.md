@@ -34,5 +34,6 @@ sudo add-apt-repository ppa:jonathonf/python-3.6
 sudo apt update
 sudo apt install python3.6
 
-USAGE: 
+USAGE:
+
 Copy files into folder /var/www/html/index.php and edit index.PHP as you need
