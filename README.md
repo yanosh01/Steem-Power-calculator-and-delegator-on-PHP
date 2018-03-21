@@ -2,7 +2,7 @@
 
 This is a PHP/HTML code fo STEEM Blockchain used for:
 
-- Create your Site to Rent Steem Power for your Bid Bot
+- Create your own Site to integrate PHP/Steem and Python
 - Permit users to delegate Steem Power on your Bot
 - Permit eveyone to check who is delegating Vest and how Much
 
